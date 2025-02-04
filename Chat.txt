@@ -1,3 +1,20 @@
+Subject: Request for Hot Path API Credentials and Documentation
+
+Hi Sanjaya,
+
+I hope you’re doing well.
+
+Our team is planning to start activities related to switching from the cold path to the hot path, and we require access to the Hot Path API to proceed. Could you please provide us with the necessary credentials to connect? Additionally, if there is any documentation available regarding authentication, API endpoints, or best practices for integration, we would appreciate it.
+
+Let us know if there are any prerequisites or steps we should follow to complete this process smoothly.
+
+Thank you for your support.
+
+Best regards,
+[Your Name]
+
+
+
 Here’s an updated draft incorporating the internship timeline:
 
 Subject: Internship Opportunity for Cybersecurity Student
