@@ -1,0 +1,87 @@
+Home
+Inside Home
+People Finder
+Search
+ talgat.kuzhabergenov@tengizchevroil.com
+Signout
+Logo
+Courses
+DevOps
+Profile
+uyrenw → Module11 Final Boss
+Overview
+Congratulations! You've made it to the final boss of the course. This is where you get to put everything you've learned to the test. You'll be building an application from scratch. You'll be using the following technologies:
+
+Frontend: Angular
+middleware: dotnet core 8
+Database: Azure SQL database
+Deployment: Chevron CI\CD to Azure resources
+  ,   A           {}
+ / \, | ,        .--.
+|    =|= >      /.--.\
+ \ /` | `       |====|
+  `   |         |`::`|
+      |     .-;`\..../`;_.-^-._
+     /\\/  /  |...::..|`   :   `|
+     |:'\ |   /'''::''|   .:.   |
+      \ /\;-,/\   ::  |..:::::..|
+      |\ <` >  >._::_.| ':::::' |
+      | `""`  /   ^^  |   ':'   |
+      |       |       \    :    /
+      |       |        \   :   /
+      |       |___/\___|`-.:.-`
+      |        \_ || _/    `
+      |        <_ >< _>
+      |        |  ||  |
+      |        |  ||  |
+      |       _\.:||:./_
+      |      /____/\____\
+Objectives
+Build a full stack application using knowledge learned from the course
+work in teams of 2 to 4 to complete the project
+dedicated time on a Wednesday and Thursday to work on the project
+Prerequisites
+You should have completed all the previous steps in the course
+Tasks
+ Use Angular for the frontend
+ Use dotnet core for the middleware
+ Use Azure SQL database
+ Use Chevron CI\CD for deployment to dev-2
+Getting Started
+Clone the repository
+
+git clone https://dev.azure.com/chevron/TCO-IT-SunkarTestLab/_git/TCO-Digital-Uyrenw-Excercise-8
+Create a branch named "final-boss-your-name" e.g., final-boss-james-bond
+
+requirements
+as a minimum, you should have the following features:
+
+database table with at least 3 columns
+API endpoint to get all records
+API endpoint to get a single record
+API endpoint to create a record
+API endpoint to update a record
+API endpoint to delete a record
+Angular frontend to display all records
+Angular frontend to display a single record
+Deployment
+use a shared AppService for the web apps
+use a unique name for your resources by adding a suffix to the resource name
+Stretch Goals
+Add authentication
+Add authorization
+Add logging and monitoring
+Add testing
+Evaluation
+Your application should be fully functional based on the requirements
+Your application should be well designed
+Your application should be well documented
+Your application should be well tested
+Submission
+You should submit your application to the instructor for evaluation
+Present your application to the class for feedback
+  ____                         ___
+ / ___| __ _ _ __ ___   ___   / _ \__   _____ _ __
+| |  _ / _` | '_ ` _ \ / _ \ | | | \ \ / / _ \ '__|
+| |_| | (_| | | | | | |  __/ | |_| |\ V /  __/ |
+ \____|\__,_|_| |_| |_|\___|  \___/  \_/ \___|_|
