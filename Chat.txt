@@ -42,3 +42,4 @@ Let me know if you’d like further refinements!
 
 git clone https://dev.azure.com/chevron/TCO-IT-SunkarTestLab/_git/TCO-Digital-Uyrenw-Excercise-8
 FskZHHLF8bBQk6CvEInTwQ2mo6JpmWZ6trzrZ4XgHUtbKav8C7MvJQQJ99BBACAAAAAJhImlAAASAZDO1CGC
+Data Source=sunkar-dev2-cvx.database.windows.net;Initial Catalog=TVHL-cvx;User ID=dbadmin-dev2;Password=ElYbpsxSkvHEE!UJZfBOO4kX2ZgRDs80;Encrypt=True;Connection Timeout=60;
